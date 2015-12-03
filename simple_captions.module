@@ -1,0 +1,22 @@
+<?php
+/**
+ *@file
+ * This module simply allows site editors to add simple captions to images uploaded through a WYSIWYG such as CKEDITOR.
+ **/
+ 
+/*function simple_captions_form_alter(&$form, $form_state, $form_id) {
+  drupal_set_message("Form ID is : " . $form_id);
+  if($form_id == 'page_node_form'){
+    drupal_set_message('Hello World');
+  }
+}*/
+ 
+/*function simple_caption_ckeditor_form_alter(&$form, &$form_state) {
+	$form['caption'] = array(
+      '#type' => 'checkbox',
+      '#title' => t('Use Alt field for caption'),
+    );
+
+   return $form;
+}
+*/
