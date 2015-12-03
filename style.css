@@ -1,0 +1,24 @@
+img.caption{
+	margin-bottom:0px !important;
+	/*margin:0px 15px 0px 15px !important;*/
+}
+.caption-text-right, .caption-text-left{
+	font-size:12px !important;
+	font-style:italic !important; 
+	background: #8996a0 !important;
+	color: white !important; 
+	text-align:center !important;
+	padding:5px;
+	margin:0px 15px 0px 15px;
+	line-height:18px !important;
+}
+div.caption-text-none{
+	font-size:12px !important; 
+	font-style:italic !important;
+	background: #8996a0 !important; 
+	color: white !important; 
+	text-align:center !important; 
+	padding:5px !important;
+	margin-top:-6px !important;
+	line-height:18px !important;
+}
