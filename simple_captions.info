@@ -1,0 +1,6 @@
+name = Simple Captions
+description = Allows site editors to add simple captions to images uploaded through a WYSIWYG such as CKEDITOR.
+core = 7.x
+
+scripts[] = script.js
+stylesheets[all][] = style.css
